@@ -17,11 +17,22 @@ if (fs.existsSync(envPath)) {
   }
 }
 
-const REMOTE_HOST = env.REMOTE_HOST || '192.168.31.37';
+const REMOTE_HOST = env.REMOTE_HOST;
 const REMOTE_PORT = env.REMOTE_PORT || '22';
-const REMOTE_USER = env.REMOTE_USER || 'root';
-const REMOTE_MENU_DIR = env.REMOTE_MENU_DIR || '/home/world_story/SSoftwareFiles/koishi/koishi-o-O/data/qq-markdown-button-v2';
+const REMOTE_USER = env.REMOTE_USER;
+const REMOTE_MENU_DIR = env.REMOTE_MENU_DIR;
 const LOCAL_MENU_DIR = path.resolve(__dirname, '..', env.LOCAL_MENU_DIR || 'menu');
+
+// 校验必要的环境配置
+if (!REMOTE_HOST || !REMOTE_USER || !REMOTE_MENU_DIR) {
+  console.error('❌ 错误: 缺少必要的环境配置！');
+  console.error('必须在 scripts/.env 文件中或系统环境变量中提供以下配置项：');
+  if (!REMOTE_HOST) console.error('  - REMOTE_HOST (远程主机地址)');
+  if (!REMOTE_USER) console.error('  - REMOTE_USER (SSH 用户名)');
+  if (!REMOTE_MENU_DIR) console.error('  - REMOTE_MENU_DIR (远程 Koishi 菜单目录路径)');
+  console.error('\n请复制 scripts/.env.example 为 scripts/.env 并填入实际配置后再运行。');
+  process.exit(1);
+}
 
 const MENU_LIST = [
   '帮助菜单',
