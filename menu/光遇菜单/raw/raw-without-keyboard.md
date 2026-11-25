@@ -9,6 +9,7 @@
 > <qqbot-cmd-input text="/光遇抽签" show="🔮 今日光遇抽签"/> 
 > <qqbot-cmd-input text="/光遇抽签md" show="✨ 抽签图+markdown"/> ｜ <qqbot-cmd-input text="/光遇抽签图" show="🖼️ 抽签但是只发图"/>
 > <qqbot-cmd-input text="/查询光翼pptr" show="🌟 查询光翼pptr"/> ｜ <qqbot-cmd-input text="/查询光翼canvas" show="🔍 查询光翼canvas"/>
+> <qqbot-cmd-input text="/获取光遇国服玩家id方法" show="🆔 获取光遇国服玩家id方法"/>
 > <qqbot-cmd-input text="/今日光遇国服任务" show="📅 今日光遇国服任务"/>
 
 🌌 **Sky Shards 碎片喷发预报**
