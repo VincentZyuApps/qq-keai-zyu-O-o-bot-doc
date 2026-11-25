@@ -77,4 +77,4 @@ yarn sync:menu
 
 ## 📄 开源许可
 
-本项目遵循 MIT 协议开源。
+本项目遵循 [MIT 协议](./LICENSE) 开源。
