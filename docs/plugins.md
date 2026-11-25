@@ -15,7 +15,7 @@ title: "🧩 插件生态与开源仓库"
 
 ## 📋 机器人运行插件全景对照表
 
-下方为线上机器人（生产环境）目前正在加载运行的 **28 个核心插件**，涵盖游戏生态、光遇垂直、绘图声效、资讯早报与系统调试等各大板块，**全员均已接入 GitHub 与 Gitee 双端开源仓库**：
+下方为线上机器人（生产环境）目前正在加载运行的 **29 个核心插件**，涵盖游戏生态、光遇垂直、绘图声效、资讯早报与系统调试等各大板块：
 
 ### 🎮 游戏垂直与电竞生态
 
@@ -75,5 +75,6 @@ title: "🧩 插件生态与开源仓库"
 | `koishi-plugin-picstatus` | 跨平台采集 Koishi 运行状态与服务器 CPU/内存/负载等硬件卡片 | `/picstatus` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VincentZyuApps/koishi-plugin-picstatus) [![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/vincent-zyu/koishi-plugin-picstatus) |
 | `koishi-plugin-quote-debug-msg-json-image` | 将消息事件结构序列化为 JSON / YAML / TOML 图文卡片便于调试 | `/dump-json`<br>`/dump-yaml` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VincentZyuApps/koishi-plugin-quote-debug-msg-json-image) [![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/vincent-zyu/koishi-plugin-quote-debug-msg-json-image) |
 | `koishi-plugin-let-me-quote-and-recall` | 智能为指令回复自动增加引用上下文，且在用户撤回指令时自动联动撤回 Bot 消息 | 全局被动增强 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VincentZyuApps/koishi-plugin-let-me-quote-and-recall) [![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/vincent-zyu/koishi-plugin-let-me-quote-and-recall) |
+| `@shangxueink/koishi-plugin-qq-markdown-button` | QQ 官方机器人 Markdown 按钮指令菜单与模板解析引擎，驱动机器人端多级菜单与按钮响应 | 指令菜单模板引擎 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/koishi-shangxue-plugins/koishi-shangxue-apps/tree/main/plugins/qq-markdown-button) |
 | `koishi-plugin-group-manage` | 群管助手，提供基础群成员权限控制与群事件监听 | 群管辅助指令 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VincentZyu233/koishi-plugin-group-manage) [![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/vincent-zyu/koishi-plugin-group-manage-vincentzyu-fork) |
 | `koishi-plugin-md-tryer` | QQ 原生 Markdown 格式与底栏键盘按钮沙盒测试工具 | `/md` 测试 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VincentZyuApps/koishi-plugin-md-tryer-vincentzyu-fork) [![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/vincent-zyu/koishi-plugin-md-tryer-vincentzyu-fork) |
