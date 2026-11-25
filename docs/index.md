@@ -67,6 +67,17 @@ features:
 
 <QQBotMessage initialMenu="帮助菜单" :showTabs="false" />
 
+<div class="tip custom-block" style="margin-top: 1.5rem; text-align: center;">
+  <p class="custom-block-title" style="margin-bottom: 0.25rem;">💖 QQ 机器人菜单模板插件致谢</p>
+  <p style="margin: 0; font-size: 0.95rem; line-height: 1.7;">
+    本机器人在 QQ 客户端中运行的强大 Markdown 指令菜单与交互按钮，由开源插件 
+    <a href="https://github.com/koishi-shangxue-plugins/koishi-shangxue-apps/tree/main/plugins/qq-markdown-button" target="_blank" rel="noopener noreferrer">
+      <b>@shangxueink/koishi-plugin-qq-markdown-button</b> ↗
+    </a> 驱动模板解析，特别感谢作者打造的好用的 Markdown 菜单插件！<br>
+    <span style="font-size: 0.85rem; color: var(--vp-c-text-2);">（注：上方演示为网页端参考 QQ 原生客户端 Markdown 按钮消息规范实现的 1:1 仿真交互）</span>
+  </p>
+</div>
+
 <div style="text-align: center; margin: 3rem 0 2rem 0;">
   <h2>📲 手机扫码直达</h2>
   <p style="color: var(--vp-c-text-2); margin-bottom: 1rem;">群主或管理员使用手机 QQ 扫描下方二维码，即可直接将 Bot 添加至群聊：</p>
