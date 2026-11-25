@@ -41,7 +41,7 @@
 - 🏢 专属应用组织：[@VincentZyuApps Repositories](https://github.com/orgs/VincentZyuApps/repositories)
 
 > 💡 **想要查看所有插件的详细功能说明与对应代码仓库？**  
-> 请点击访问在线文档的 [👉 🧩 插件生态与源码全景表](https://vincentzyu233.github.io/qq-keai-zyu-O-o-bot-doc/plugins) 查看完整清单与双端（GitHub / Gitee）仓库直达链接。
+> 请点击访问在线文档的 [👉 🧩 插件生态与源码全景表](https://vincentzyuapps.github.io/qq-keai-zyu-O-o-bot-doc/plugins) 查看完整清单与双端（GitHub / Gitee）仓库直达链接。
 
 ---
 
