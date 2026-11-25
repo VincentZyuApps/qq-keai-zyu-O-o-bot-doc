@@ -2,7 +2,7 @@
 
 > QQ 官方机器人 · 全量 Markdown 蓝字互动 · 游戏 / 资讯 / 工具多维互联
 
-[![QQ Bot 直达](https://img.shields.io/badge/QQ%E6%9C%BA%E5%99%A8%E4%BA%BA-%E7%82%B9%E5%87%BB%E4%B8%80%E9%94%AE%E6%8B%89%E7%BE%A4%2F%E7%A7%81%E8%81%8A-12B7F5?style=flat-square&logo=tencentqq&logoColor=white)](https://bot.q.qq.com/s/x0ZL0Sqm7C)
+[![QQ Bot 直达](https://img.shields.io/badge/QQ%E6%9C%BA%E5%99%A8%E4%BA%BA-%E7%82%B9%E5%87%BB%E4%B8%80%E9%94%AE%E6%8B%89%E7%BE%A4%2F%E7%A7%81%E8%81%8A-12B7F5?style=flat-square&logo=qq&logoColor=white)](https://bot.q.qq.com/s/x0ZL0Sqm7C)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
 [![VitePress](https://img.shields.io/badge/VitePress-1.6.4-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitepress.dev)
 [![Vue](https://img.shields.io/badge/Vue-3.5-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org)
