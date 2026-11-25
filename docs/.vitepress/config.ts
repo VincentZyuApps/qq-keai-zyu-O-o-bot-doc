@@ -16,10 +16,10 @@ export default defineConfig({
       { text: '📱 交互菜单演示', link: '/menus' },
       { text: '🧩 插件源码', link: '/plugins' },
       { text: '📖 免艾特设置指南', link: '/guide' },
-      { text: '🐧 一键拉Bot进群', link: 'https://bot.q.qq.com/s/wItKEI8kSs' }
+      { text: '🐧 一键拉Bot进群 / 私聊', link: 'https://bot.q.qq.com/s/x0ZL0Sqm7C' }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/VincentZyu233/qq-keai-zyu-O-o-bot-doc' }
+      { icon: 'github', link: 'https://github.com/VincentZyuApps/qq-keai-zyu-O-o-bot-doc' }
     ],
     footer: {
       message: '基于 VitePress 构建 | QQ 官方机器人交互与功能展示',

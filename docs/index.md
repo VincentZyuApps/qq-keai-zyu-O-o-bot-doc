@@ -10,8 +10,8 @@ hero:
     alt: 可爱zyu的bot
   actions:
     - theme: brand
-      text: 🐧 一键拉 Bot 进群
-      link: https://bot.q.qq.com/s/wItKEI8kSs
+      text: 🐧 一键拉 Bot 进群 / 发起私聊
+      link: https://bot.q.qq.com/s/x0ZL0Sqm7C
     - theme: alt
       text: 📱 交互菜单演示
       link: /menus
